@@ -1,5 +1,6 @@
 title: ВИТЬКИН БЛОГ
 description: Полезные советы, DIY, лайфстайл.
+baseurl: ""
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-merlot
